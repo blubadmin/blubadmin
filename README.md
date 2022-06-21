@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blubadmin aka Pat R
+- 👋 Hi, I’m @blubadmin aka Pat
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning c#/unity
 - 💞️ I’m looking to collaborate on making a visual novel style game
